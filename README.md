@@ -3,6 +3,8 @@
 ## Built with Python & scikit-learn - Supervised Learning with K Neighbors Classifier
 Program running: https://youtu.be/ng2J1NH5Bp0
 
+AI to predict whether online shopping customers will complete a purchase.
+
 ## How to run (example)
 
 ```
